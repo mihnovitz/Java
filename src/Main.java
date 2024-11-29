@@ -4,7 +4,7 @@ public class Main {
 
         Color Zolty = new Color(1,1,1);
         Color Braz = new Color(867867,2345,576);
-        Color Fiolet = new Color(12525,23424,3132);
+        Color Fiolet = new Color(12525,23424,3132, 5);
 
         System.out.println(Zolty);
         System.out.println(Braz);
