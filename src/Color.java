@@ -11,13 +11,4 @@ public record Color(int red, int green, int blue, int alpha) {
         this(red,green,blue,0);
     }
 
-    @Override
-    public String toString() {
-        return "Color{" +
-                "red=" + red +
-                ", green=" + green +
-                ", blue=" + blue +
-                ", alpha=" + alpha +
-                '}';
-    }
 }
